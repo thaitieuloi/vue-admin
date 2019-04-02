@@ -34,7 +34,7 @@
 
 - [在线预览](http://panjiachen.github.io/vue-element-admin)
 
-- [使用文档](https://panjiachen.github.io/vue-element-admin-site/zh/)
+- [使用文档](https://thaitieuloi.github.io/vue-admin-site/zh/)
 
 - [Gitter 讨论组](https://gitter.im/vue-element-admin/discuss)
 
@@ -196,7 +196,7 @@ npm run lint
 npm run lint -- --fix
 ```
 
-更多信息请参考 [使用文档](https://panjiachen.github.io/vue-element-admin-site/zh/)
+更多信息请参考 [使用文档](https://thaitieuloi.github.io/vue-admin-site/zh/)
 
 ## Changelog
 
@@ -209,7 +209,7 @@ Detailed changes for each release are documented in the [release notes](https://
 ## Donate
 
 如果你觉得这个项目帮助到了你，你可以帮作者买一杯果汁表示鼓励 :tropical_drink:
-![donate](https://panjiachen.github.io/donate/donation.png)
+![donate](https://thaitieuloi.github.io/donate/donation.png)
 
 [更多捐赠方式](https://panjiachen.gitee.io/vue-element-admin-site/zh/donate)
 

@@ -21,7 +21,7 @@
   <a href="https://gitter.im/vue-element-admin/discuss">
     <img src="https://badges.gitter.im/Join%20Chat.svg" alt="gitter">
   </a>
-  <a href="https://panjiachen.github.io/vue-element-admin-site/donate">
+  <a href="https://thaitieuloi.github.io/vue-admin-site/donate">
     <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
   </a>
 </p>
@@ -36,11 +36,11 @@ It is a magical vue admin based on the newest development stack of vue, built-in
 
 - [Preview](http://panjiachen.github.io/vue-element-admin)
 
-- [Documentation](https://panjiachen.github.io/vue-element-admin-site/)
+- [Documentation](https://thaitieuloi.github.io/vue-admin-site/)
 
 - [Gitter](https://gitter.im/vue-element-admin/discuss)
 
-- [Donate](https://panjiachen.github.io/vue-element-admin-site/donate/)
+- [Donate](https://thaitieuloi.github.io/vue-admin-site/donate/)
 
 - [Wiki](https://github.com/PanJiaChen/vue-element-admin/wiki)
 
@@ -179,7 +179,7 @@ npm run lint
 npm run lint -- --fix
 ```
 
-Refer to [Documentation](https://panjiachen.github.io/vue-element-admin-site/guide/essentials/deploy.html) for more information
+Refer to [Documentation](https://thaitieuloi.github.io/vue-admin-site/guide/essentials/deploy.html) for more information
 
 ## Changelog
 

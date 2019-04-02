@@ -13,7 +13,7 @@ import tableRouter from './modules/table'
 import nestedRouter from './modules/nested'
 
 /** note: sub-menu only appear when children.length>=1
- *  detail see  https://panjiachen.github.io/vue-element-admin-site/guide/essentials/router-and-nav.html
+ *  detail see  https://thaitieuloi.github.io/vue-admin-site/guide/essentials/router-and-nav.html
  **/
 
 /**
